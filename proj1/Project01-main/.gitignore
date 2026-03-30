@@ -1,8 +1,12 @@
 .DS_S*
 __pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.pyc
+*.pyc.*
 *_utils.py
 *_utils.py.*
 *.py.*
-*.pyc
-*.pyc.*
 data/my_data/
+.env
